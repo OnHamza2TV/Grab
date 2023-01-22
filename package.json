@@ -1,0 +1,21 @@
+{
+  "name": "guildcopy",
+  "version": "1.0.0",
+  "description": "Un outil pour copier une guilde de discorde",
+  "main": "copy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KASav'SSC#3348",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "center-align": "^1.0.1",
+    "colors": "^1.4.0",
+    "console-title": "^1.1.0",
+    "discord.js-selfbot-v11": "^11.5.1",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3",
+    "path": "^0.12.7",
+    "rl": "0.0.1"
+  }
+}
